@@ -24,10 +24,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.ujjalacharya.telematics",
       "supportsTablet": true
     },
     "android":{
-      "package": "com.ujjalacharya.telematics"
+      "package": "com.ujjalacharya.telematics",
+      "permissions": []
     }
   }
 }
